@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakiah !
-- 👀 I’m invested in NextJS, TypeScript and ReactJS
-- 🌱 I’m currently learning more of NextJS and TypeScript
+- 👀 I’m invested in Next, TypeScript and ReactJS
+- 🌱 I’m currently learning more of Next and TypeScript
 - 💞️ I’m looking to collaborate on anything fun and amazing that can contribute to the society especially
 - 📫 How to reach me, drop an email to zakiah_bloom@yahoo.com
 
