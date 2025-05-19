@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zakiah or you can call me Zack!
+- 👋 Hi, you can call me Zack!
 - 👀 I’m invested in Next, TypeScript and ReactJS
-- 🌱 Currently learning more of Next and TypeScript
+- 🌱 Currently occupied with projects involving Next and TypeScript
 - 💞️ I’m looking to collaborate on anything fun and amazing that can contribute to the society especially
 - 📫 Reach me at my email zakiah_bloom@yahoo.com
 
